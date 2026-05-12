@@ -1,0 +1,57 @@
+{
+  "tenant": "13fe76a6-6b4b-498e-a658-4cc38fbc52ec",
+  "generated": "May 4, 2026",
+  "totalRules": 545,
+  "dcrVMs": 541,
+  "dcrCount": 12,
+  "kpis": [
+    {
+      "num": 545,
+      "label": "Total Alert Rules",
+      "sub": "All products",
+      "cls": ""
+    },
+    {
+      "num": 141,
+      "label": "Sev0 — Critical",
+      "sub": "Immediate action",
+      "cls": "red"
+    },
+    {
+      "num": 146,
+      "label": "Sev1 — High",
+      "sub": "Prompt response",
+      "cls": "orange"
+    },
+    {
+      "num": 72,
+      "label": "CPU Rules",
+      "sub": "Platform metric",
+      "cls": "yellow"
+    },
+    {
+      "num": 60,
+      "label": "Disk Rules",
+      "sub": "DCR → Log Analytics",
+      "cls": "teal"
+    },
+    {
+      "num": 61,
+      "label": "Memory Rules",
+      "sub": "Platform + Log",
+      "cls": "purple"
+    },
+    {
+      "num": 70,
+      "label": "Up/Down Rules",
+      "sub": "Activity Log",
+      "cls": "grey"
+    },
+    {
+      "num": 541,
+      "label": "VMs via DCR",
+      "sub": "12 DCRs · Vertex only",
+      "cls": "green"
+    }
+  ]
+}

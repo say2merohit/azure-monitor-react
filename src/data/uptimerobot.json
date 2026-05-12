@@ -1,0 +1,674 @@
+[
+  {
+    "id": "796734390",
+    "name": "BasePower",
+    "url": "https://app3-vxretail.vertexone.app",
+    "status": "up",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "801815790",
+    "name": "bilprod-usermgmt-portal.vertexna.net",
+    "url": "https://bilprod-usermgmt-portal.vertexna.net",
+    "status": "up",
+    "product": "Customer Portals"
+  },
+  {
+    "id": "801815921",
+    "name": "bilqa-usermgmt-portal.vertexna.net",
+    "url": "https://bilqa-usermgmt-portal.vertexna.net",
+    "status": "up",
+    "product": "Customer Portals"
+  },
+  {
+    "id": "801815846",
+    "name": "carprod-usermgmt-portal.vertexna.net",
+    "url": "https://carprod-usermgmt-portal.vertexna.net",
+    "status": "up",
+    "product": "Customer Portals"
+  },
+  {
+    "id": "801815928",
+    "name": "carqa-usermgmt-portal.vertexna.net",
+    "url": "https://carqa-usermgmt-portal.vertexna.net",
+    "status": "up",
+    "product": "Customer Portals"
+  },
+  {
+    "id": "801815852",
+    "name": "ccwprod-usermgmt-portal.vertexna.net",
+    "url": "https://ccwprod-usermgmt-portal.vertexna.net",
+    "status": "up",
+    "product": "Customer Portals"
+  },
+  {
+    "id": "801815942",
+    "name": "ccwqa-usermgmt-portal.vertexna.net",
+    "url": "https://ccwqa-usermgmt-portal.vertexna.net",
+    "status": "up",
+    "product": "Customer Portals"
+  },
+  {
+    "id": "801815860",
+    "name": "epcprod-usermgmt-portal.vertexna.net",
+    "url": "https://epcprod-usermgmt-portal.vertexna.net",
+    "status": "down",
+    "product": "Customer Portals"
+  },
+  {
+    "id": "801815958",
+    "name": "epcqa-usermgmt-portal.vertexna.net",
+    "url": "https://epcqa-usermgmt-portal.vertexna.net",
+    "status": "down",
+    "product": "Customer Portals"
+  },
+  {
+    "id": "796803080",
+    "name": "GlobalScape WebPortal",
+    "url": "https://msftp.vertexgroup.com/",
+    "status": "up",
+    "product": "Infrastructure / Other"
+  },
+  {
+    "id": "796782267",
+    "name": "GNG-3PCM",
+    "url": "https://3pcm.gng.com/GNGVendorService.svc?wsdl",
+    "status": "paused",
+    "product": "GNG"
+  },
+  {
+    "id": "796782510",
+    "name": "GNG-API",
+    "url": "https://api.gng.com/api/v1/ping/index",
+    "status": "up",
+    "product": "GNG"
+  },
+  {
+    "id": "796782505",
+    "name": "GNG-ClickWS",
+    "url": "https://clickws.gng.com/SplitPaymentService.asmx",
+    "status": "up",
+    "product": "GNG"
+  },
+  {
+    "id": "796782506",
+    "name": "GNG-CommonWS",
+    "url": "https://commonws.gng.com",
+    "status": "up",
+    "product": "GNG"
+  },
+  {
+    "id": "796782508",
+    "name": "GNG-CustAdv",
+    "url": "https://myaccount.gng.com",
+    "status": "up",
+    "product": "GNG"
+  },
+  {
+    "id": "796782512",
+    "name": "GNG-OPPC",
+    "url": "https://oppcws.gng.com/",
+    "status": "up",
+    "product": "GNG"
+  },
+  {
+    "id": "796782517",
+    "name": "GNG-PEW",
+    "url": "https://enrollws.gng.com/Enrollment/Ping",
+    "status": "up",
+    "product": "GNG"
+  },
+  {
+    "id": "796782518",
+    "name": "GNG-PREF",
+    "url": "https://prefws.gng.com/",
+    "status": "up",
+    "product": "GNG"
+  },
+  {
+    "id": "796782521",
+    "name": "GNG-RTP",
+    "url": "https://realtimepayments.gng.com/",
+    "status": "up",
+    "product": "GNG"
+  },
+  {
+    "id": "796782527",
+    "name": "GNG-SPH",
+    "url": "https://paybytext.onlygng.com/SpeedPayHelperService.asmx",
+    "status": "up",
+    "product": "GNG"
+  },
+  {
+    "id": "796782532",
+    "name": "GNG-Token",
+    "url": "https://tokengen.gng.com",
+    "status": "down",
+    "product": "GNG"
+  },
+  {
+    "id": "802235600",
+    "name": "jirasvn.vertexone.app/",
+    "url": "https://jirasvn.vertexone.app/",
+    "status": "up",
+    "product": "Infrastructure / Other"
+  },
+  {
+    "id": "801815880",
+    "name": "lcprod-usermgmt-portal.vertexna.net",
+    "url": "https://lcprod-usermgmt-portal.vertexna.net",
+    "status": "up",
+    "product": "Customer Portals"
+  },
+  {
+    "id": "801815978",
+    "name": "lcqa-usermgmt-portal.vertexna.net",
+    "url": "https://lcqa-usermgmt-portal.vertexna.net",
+    "status": "up",
+    "product": "Customer Portals"
+  },
+  {
+    "id": "797635145",
+    "name": "PSEG UP",
+    "url": "https://utiliport.vertexone.app",
+    "status": "paused",
+    "product": "VXenterprise"
+  },
+  {
+    "id": "797014801",
+    "name": "Server14-WCF",
+    "url": "https://clearviewutilibill.eccircle.com/UbSystemServices/UbSystemServices.CustomerServices.CustomerService.svc",
+    "status": "paused",
+    "product": "Infrastructure / Other"
+  },
+  {
+    "id": "798332172",
+    "name": "Tesla Demo",
+    "url": "https://teslademo-vxretail.vertexone.app/",
+    "status": "paused",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "802426860",
+    "name": "tokengen",
+    "url": "https://tokengen.gng.com/VertexTokenGeneratorService.svc",
+    "status": "down",
+    "product": "Infrastructure / Other"
+  },
+  {
+    "id": "795536926",
+    "name": "VSSP-DCW",
+    "url": "https://www.mydcwater.com/DCWSSP/Index.aspx",
+    "status": "up",
+    "product": "Customer Portals"
+  },
+  {
+    "id": "795536930",
+    "name": "VSSP-MSD",
+    "url": "https://myaccount.stlmsd.com/MSDSSP/index.aspx",
+    "status": "up",
+    "product": "Customer Portals"
+  },
+  {
+    "id": "802235603",
+    "name": "vxcis-operations-portal.vertexone.app/",
+    "url": "https://vxcis-operations-portal.vertexone.app/",
+    "status": "up",
+    "product": "VXcis"
+  },
+  {
+    "id": "801104352",
+    "name": "VXconnect UI",
+    "url": "https://vxconnectui.vertexone.app/",
+    "status": "up",
+    "product": "VXconnect"
+  },
+  {
+    "id": "801075876",
+    "name": "VXconnect-UI",
+    "url": "https://vxconnectui.vertexone.app/",
+    "status": "up",
+    "product": "VXconnect"
+  },
+  {
+    "id": "800770113",
+    "name": "VXengage COB",
+    "url": "https://myutility.bellevuewa.gov",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "798669576",
+    "name": "VXengage PROD",
+    "url": "https://vxengage-vtx-prod.vertexone.app/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "800943769",
+    "name": "VXengage SJW",
+    "url": "https://www.sjwaterhub.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "797862329",
+    "name": "VXengage SWBNO",
+    "url": "https://myaccount.swbno.org",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "797862374",
+    "name": "VXengage UC",
+    "url": "https://myaccount.unioncountywater.org",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "801426974",
+    "name": "VXengage-AUS",
+    "url": "https://myaccount.austellgas.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "795529701",
+    "name": "VXengage-BHC",
+    "url": "https://myaccount.bullheadcity.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "797034693",
+    "name": "VXengage-BIL",
+    "url": "https://accountadmin.billingsmtpublicworks.gov",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "795830046",
+    "name": "VXengage-CAR",
+    "url": "https://myaccount.cityofcarrollton.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "796580809",
+    "name": "VXengage-COR",
+    "url": "https://myaccount.cityofredding.gov",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "796453602",
+    "name": "VXengage-DCW",
+    "url": "https://managementportal.mydcwater.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "801326171",
+    "name": "VXengage-EGR",
+    "url": "https://mywater.erwsd.org",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "795536939",
+    "name": "VXengage-EPC",
+    "url": "https://myaccount.epcor.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "795536941",
+    "name": "VXengage-GRU",
+    "url": "https://myaccount.gru.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "801002233",
+    "name": "VXengage-HEN",
+    "url": "https://mywateraccount.cityofhenderson.com",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "796086095",
+    "name": "VXengage-HOPE",
+    "url": "https://myaccount.hopegas.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "795536946",
+    "name": "VXengage-LCU",
+    "url": "https://myutilities.leegov.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "796580817",
+    "name": "VXengage-LWC",
+    "url": "https://myh2o-le.utilitiesbp.com",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "795536954",
+    "name": "VXengage-NWE-CA",
+    "url": "https://myaccount.northwesternenergy.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "795536934",
+    "name": "VXengage-NWE-SaaS",
+    "url": "https://myaccount2.northwesternenergy.com/ContinuousServiceAgreement",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "800493384",
+    "name": "VXengage-NXWG",
+    "url": "https://account.mywater.us",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "795536956",
+    "name": "VXengage-PCU",
+    "url": "https://myaccount.pinellas.gov/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "795536958",
+    "name": "VXengage-PWSA",
+    "url": "https://myaccount.pgh2o.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "796728412",
+    "name": "VXengage-RestfulAPI",
+    "url": "https://apim-portal.vertexone.app",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "801206716",
+    "name": "VXengage-ROA",
+    "url": "https://myaccount.roanokegas.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "795536963",
+    "name": "VXengage-SU",
+    "url": "https://myaccount.summitutilities.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "795536965",
+    "name": "VXengage-SWWC",
+    "url": "https://myaccount.swwc.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "795536937",
+    "name": "VXengage-TSU-AUI",
+    "url": "https://myaccount.apexutilities.ca/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "795536944",
+    "name": "VXengage-TSU-EWE",
+    "url": "https://myaccount.eastwardenergy.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "795536957",
+    "name": "VXengage-TSU-PNG",
+    "url": "https://myaccount.png.ca/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "801075810",
+    "name": "VXengage-UI",
+    "url": "https://ui.vertexone.app/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "801651931",
+    "name": "VXengage-VP",
+    "url": "https://myaccount.versantpower.com/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "801075658",
+    "name": "VXengage-vxcisui",
+    "url": "http://vxcisui.vertexone.app/",
+    "status": "up",
+    "product": "VXengage"
+  },
+  {
+    "id": "796734845",
+    "name": "VXETT",
+    "url": "https://vxtruetrack.vertexone.app",
+    "status": "up",
+    "product": "VXenterprise"
+  },
+  {
+    "id": "796734849",
+    "name": "VXEUtiliPort",
+    "url": "https://vxutiliport.vertexone.app",
+    "status": "up",
+    "product": "VXenterprise"
+  },
+  {
+    "id": "797412308",
+    "name": "VXRAPIDEV",
+    "url": "https://apis-dev.vertexone.app/vxretail-b/api/v1/Test/WhoAmI?caller=UptimeRobot",
+    "status": "paused",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796734858",
+    "name": "VXRCP-Clearview",
+    "url": "https://clearviewenergy.ecinfobill.com",
+    "status": "paused",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796734863",
+    "name": "VXRCP-Crypto",
+    "url": "https://cryptopower.ecinfobill.com",
+    "status": "paused",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "797374191",
+    "name": "VXRCP-Gridmatic Retail",
+    "url": "https://gridmaticretail.ecinfobill.com/",
+    "status": "paused",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796891495",
+    "name": "VXRCP-IronHorse",
+    "url": "https://IronHorse.ecinfobill.com",
+    "status": "paused",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796891499",
+    "name": "VXRCP-Mansfield",
+    "url": "https://mansfield.ecinfobill.com",
+    "status": "paused",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796891501",
+    "name": "VXRCP-Mega",
+    "url": "https://megaenergy.ecinfobill.com",
+    "status": "paused",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796891506",
+    "name": "VXRCP-NortEast",
+    "url": "https://nepower.ecinfobill.com",
+    "status": "paused",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796891512",
+    "name": "VXRCP-Pumpjack",
+    "url": "https://pumpjackpower.ecinfobill.com",
+    "status": "paused",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796891519",
+    "name": "VXRCP-ResCom",
+    "url": "https://rescom.ecinfobill.com",
+    "status": "paused",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796891523",
+    "name": "VXRCP-Verde",
+    "url": "https://verde.ecinfobill.com",
+    "status": "paused",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796733067",
+    "name": "VXRRAPI",
+    "url": "https://api-vxretail-prod.azurewebsites.net/api/v1/Test/WhoAmI/?caller=UptimeRobot",
+    "status": "down",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796734830",
+    "name": "VXRServer10",
+    "url": "https://app10-vxretail.vertexone.app",
+    "status": "up",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796734835",
+    "name": "VXRserver12",
+    "url": "https://app12-vxretail.vertexone.app",
+    "status": "up",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796734837",
+    "name": "VXRserver13",
+    "url": "https://think-vxretail.vertexone.app",
+    "status": "up",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796734838",
+    "name": "VXRServer14",
+    "url": "https://clearview-vxrportal.vertexone.app",
+    "status": "up",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796734842",
+    "name": "VXRserver15",
+    "url": "https://Tesla-vxretail.vertexone.app",
+    "status": "up",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796734395",
+    "name": "VXRServer5",
+    "url": "https://app5-vxretail.vertexone.app",
+    "status": "up",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "797374186",
+    "name": "VXRServer6",
+    "url": "https://app7-vxretail.vertexone.app",
+    "status": "paused",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796733342",
+    "name": "VXRServer7",
+    "url": "https://app7-vxretail.vertexone.app",
+    "status": "up",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796734404",
+    "name": "VXRServer8-Major",
+    "url": "https://Major-vxretail.vertexone.app",
+    "status": "up",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796734399",
+    "name": "VXRServer8-PP",
+    "url": "HTTPS://Provider-vxretail.vertexone.app",
+    "status": "up",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796734407",
+    "name": "VXRServer9",
+    "url": "https://verde-vxretail.vertexone.app",
+    "status": "up",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796809868",
+    "name": "VXRT03",
+    "url": "https://ubazvwwebt03.eccirlcle.com",
+    "status": "paused",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "795676187",
+    "name": "VXRtest",
+    "url": "https://vxretailqa01.vertexone.app",
+    "status": "paused",
+    "product": "VXretail / VXexchange"
+  },
+  {
+    "id": "796728697",
+    "name": "whoami",
+    "url": "https://apim-vxexch.vertexone.net",
+    "status": "paused",
+    "product": "Infrastructure / Other"
+  },
+  {
+    "id": "801815893",
+    "name": "wodprod-usermgmt-portal.vertexna.net",
+    "url": "https://wodprod-usermgmt-portal.vertexna.net",
+    "status": "up",
+    "product": "Customer Portals"
+  },
+  {
+    "id": "801815981",
+    "name": "wodqa-usermgmt-portal.vertexna.net",
+    "url": "https://wodqa-usermgmt-portal.vertexna.net",
+    "status": "up",
+    "product": "Customer Portals"
+  }
+]
